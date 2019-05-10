@@ -6,6 +6,14 @@ Class: Lights
 Purpose: To simulate a Simon Lights experience
 *******************************************************************************
 */
+
+/*------------------------------------------------------------------------------
+    FEEDBACK FROM INSTRUCTOR:
+    Does not catch mistakes in the "remember portion.  Colors and sound work fine.  
+    It would be better to turn all colors to gray when the New Game and Remember 
+    buttons are clicked (for resetting). Good start.  
+------------------------------------------------------------------------------*/
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
